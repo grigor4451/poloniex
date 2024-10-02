@@ -1,0 +1,5 @@
+{
+  "TELEGRAM_TOKEN": "6928441299:AAEkBnRaMiwLGP_Gece_WAp4rGOx9b_WwkU",
+  "BASE_URL": "https://exchange-bot-sand.vercel.app",
+  "MONGO_URL": "mongodb+srv://grior4451:bA3zpeYBiUkWjGWN@cluster0.xwzd9.mongodb.net/db-exchange-bot"
+}
